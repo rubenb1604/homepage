@@ -24,6 +24,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <title>Ruben Bertram - 2024</title>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
